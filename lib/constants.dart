@@ -17,7 +17,7 @@ final headingStyle = TextStyle(
   fontSize: getProportionateScreenWidth(28),
   fontWeight: FontWeight.bold,
   color: Colors.black,
-  height: 1.6,
+  height: 1.7,
 );
 
 const defaultDuration = Duration(milliseconds: 250);
